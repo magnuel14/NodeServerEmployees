@@ -1,0 +1,9 @@
+###
+Get  http://localhost:4000/api/employes
+
+###
+POST  http://localhost:4000/api/employes
+###
+PUT   http://localhost:4000/api/employes
+###
+DELETE   http://localhost:4000/api/employes

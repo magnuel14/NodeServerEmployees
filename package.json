@@ -1,0 +1,35 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "cloudinary": "^1.34.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+<<<<<<< HEAD
+    "express-fileupload": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.0",
+=======
+>>>>>>> 3576916fd1a5532bebfe6964984fe8aa7b665523
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
